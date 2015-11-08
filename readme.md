@@ -1,10 +1,4 @@
 
-[![Latest Stable Version](https://poser.pugx.org/dinesh/barcode/v/stable.png)](https://packagist.org/packages/dinesh/barcode)
-[![Total Downloads](https://poser.pugx.org/dinesh/barcode/downloads.png)](https://packagist.org/packages/dinesh/barcode)
-[![Build Status](https://travis-ci.org/dineshrabara/barcode.png?branch=master)](https://travis-ci.org/dineshrabara/barcode)
-
-[Read More Wiki](https://github.com/dineshrabara/barcode/wiki)
-
 ## Installation
 
 Begin by installing this package through Composer. Edit your project's `composer.json` file to require `dinesh/barcode`.
